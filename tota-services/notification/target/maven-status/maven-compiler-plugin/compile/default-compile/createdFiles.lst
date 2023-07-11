@@ -1,8 +1,0 @@
-com\tota\notification\Notification.class
-com\tota\notification\NotificationConsumer.class
-com\tota\notification\NotificationController.class
-com\tota\notification\Notification$NotificationBuilder.class
-com\tota\notification\NotificationConfig.class
-com\tota\notification\NotificationRepository.class
-com\tota\notification\NotificationApplication.class
-com\tota\notification\NotificationService.class

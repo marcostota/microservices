@@ -1,8 +1,0 @@
-com\tota\customer\CustomerController.class
-com\tota\customer\Customer.class
-com\tota\customer\CustomerRegisterRequest.class
-com\tota\customer\CustomerApplication.class
-com\tota\customer\CustomerService.class
-com\tota\customer\CustomerConfig.class
-com\tota\customer\CustomerRepository.class
-com\tota\customer\Customer$CustomerBuilder.class
