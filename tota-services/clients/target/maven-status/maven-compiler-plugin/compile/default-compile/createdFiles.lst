@@ -1,0 +1,4 @@
+com\tota\clients\fraud\FraudCheckResponse.class
+com\tota\clients\notification\NotificationClient.class
+com\tota\clients\fraud\FraudClient.class
+com\tota\clients\notification\NotificationRequest.class
